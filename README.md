@@ -49,4 +49,40 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 
 &nbsp;
 
-**Heute habe ich..**
+**Heute habe ich...**
+
+&nbsp;
+
+&nbsp;
+
+## 13.11.2025
+
+**Epic:**
+
+**Arbeitspakete**
+- [ ] xxx
+- [ ] xxx
+- [ ] xxx
+- [ ] xxx
+
+&nbsp;
+
+**Heute habe ich...**
+
+&nbsp;
+
+&nbsp;
+
+## 20.11.2025
+
+**Epic:**
+
+**Arbeitspakete**
+- [ ] xxx
+- [ ] xxx
+- [ ] xxx
+- [ ] xxx
+
+&nbsp;
+
+**Heute habe ich...**
