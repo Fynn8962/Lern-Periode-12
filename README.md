@@ -27,7 +27,7 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 
 4. Als Spieler möchte ich eine Zeitmessung sehen, damit ich meine Bestzeiten vergleichen und mich selbst herausfordern kann.
 
-5. Als SPieler möchte ich verlieren, wenn ich von der Strecke falle, damit das SPiel Ziel und Spannung hat.
+5. Als Spieler möchte ich verlieren, wenn ich von der Strecke falle, damit das SPiel Ziel und Spannung hat.
 
 6. Als Entwickler möchte ich den Code und die Projektstrutkur klar dokumentiert und veständlich, damit andere (und ich selbst) mein Porjekt verstehen und selbst ausführen können.
 
