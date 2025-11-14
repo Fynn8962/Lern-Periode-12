@@ -51,7 +51,7 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 
 &nbsp;
 
-**Heute habe ich...**
+**Heute habe ich...**                      
 Zuerst habe ich ein neues Projekt erstellt und mich mit der Umgebung vertraut gemacht. Ich musste ein Tutorial anschauen um zu verstehen, was die verschiedenen Bereiche (Hirarchy, Project, Inspector) usw. alles bedeuten. Danach habe ich eine Struktur angelegt, z. B. den Ordner, in welchen in die Texturen verwalte. Anschliessend habe ich Unity eigene Objekte (cube, Shpere) hinzugefügt, um einen Boden und eine Kugel zu haben. Anhand eines Tutorials habe ich dann Texturen gefunden (Assets) und gelernt, wie man mit den Parametern, die man verstellen kann, umgeht. Dadurch habe ich eine erste kleine Spieloberfläche gebaut, mit einigermassen passenden Texturen. 
 
 
