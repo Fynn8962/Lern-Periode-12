@@ -64,9 +64,9 @@ Zuerst habe ich ein neues Projekt erstellt und mich mit der Umgebung vertraut ge
 **Epic:** Als Spieler möchte ich die Kugel mit der Tastatur steuern können, um mich über die Wege bewegen zu können.
 
 **Arbeitspakete**
-- [ ] Kugelobjekt erstellen (Rigid Body einstellen)
-- [ ] Das Steuerungsskript in C# für die Tastensteuerung
+- [ ] Das Steuerungsskript in C# für die Tastensteuerung der Kugel
 - [ ] Trägheitsbasierte Steuerung einbauen, damit das Spielerlebnis schwieriger ist.
+- [ ] Physik der Kugel anpassen, Fallen, Bouncen, Apprallen.
 - [ ] Ersten kleinen Parcour bauen und mit der Kugel testen - Anpassungen vornehmen
 
 &nbsp;
