@@ -41,7 +41,7 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 
 ## 07.11.2025
 
-**Epic:**
+**Epic:** Als Entwickler möchte ich mich mit Unity zurechtfinden und die Projektstruktur sowie Assets gründlich aufbauen.
 
 **Arbeitspakete**
 - [ ] xxx
