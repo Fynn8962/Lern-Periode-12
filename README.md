@@ -19,21 +19,21 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 
 ### Epics
 
-1. Als Entwickler möchte ich mich mit Unity zurecht finden und Anfangen die Projektstrutkur, Assets etc Gründlich aufbauen. 
+- Als Entwickler möchte ich mich mit Unity zurechtfinden und die Projektstruktur sowie Assets gründlich aufbauen.
 
-2.  Als Spieler möchte ich die Kugel mit der Tastatur steuern können, damit ich mich über die Wege bewegen kann.
+- Als Spieler möchte ich die Kugel mit der Tastatur steuern können, um mich über die Wege bewegen zu können.
 
-3. Als SPieler mächte ich eine realistische Physiksteuerung der Kugel, damit sich die Bewegung herausfordernd und glaubwürdig anfühlt.
+- Als Spieler möchte ich eine realistische Physiksteuerung der Kugel, damit sich die Bewegung herausfordernd und glaubwürdig anfühlt.
 
-4. Als Spieler möchte ich verschiedene Level mit ansteigendem Schwierigkeitsgrad auswählen könne, damit ich mich schrittweise verbessern kann.
+- Als Spieler möchte ich verschiedene Level mit ansteigendem Schwierigkeitsgrad auswählen können, um mich schrittweise zu verbessern.
 
-5. Als Spieler möchte ich eine Zeitmessung sehen, damit ich meine Bestzeiten vergleichen und mich selbst herausfordern kann.
+- Als Spieler möchte ich eine Zeitmessung sehen, um Bestzeiten vergleichen und mich selbst herausfordern zu können.
 
-6. Als Spieler möchte ich verlieren, wenn ich von der Strecke falle, damit das SPiel Ziel und Spannung hat.
+- Als Spieler möchte ich verlieren, wenn ich von der Strecke falle, damit das Spiel Ziel und Spannung hat.
 
-7. Als Entwickler möchte ich den Code und die Projektstrutkur klar dokumentiert und veständlich, damit andere (und ich selbst) mein Porjekt verstehen und selbst ausführen können.
+- Als Entwickler möchte ich Code und Projektstruktur klar dokumentiert und verständlich halten, damit andere (und ich selbst) das Projekt nachvollziehen und ausführen können.
 
-(Als Spieler möchte ich ein einfaches Menü haben, um Level zu starten, neu zu beginnen oder das Spiel zu beendenm damit die Bedienung übersichtlich ist.)
+- (Als Spieler möchte ich ein einfaches Menü haben, um Level zu starten, neu zu beginnen oder das Spiel zu beenden, damit die Bedienung übersichtlich bleibt.)
 
 &nbsp;
 
