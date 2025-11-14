@@ -65,9 +65,9 @@ Zuerst habe ich ein neues Projekt erstellt und mich mit der Umgebung vertraut ge
 
 **Arbeitspakete**
 - [ ] Das Steuerungsskript in C# für die Tastensteuerung der Kugel
+- [ ] kamera einstellen, Kameraführung- verfolgung Spielbar einstellen.
 - [ ] Trägheitsbasierte Steuerung einbauen, damit das Spielerlebnis schwieriger ist.
-- [ ] Physik der Kugel anpassen, Fallen, Bouncen, Apprallen.
-- [ ] Ersten kleinen Parcour bauen und mit der Kugel testen - Anpassungen vornehmen
+- [ ] Physik der Kugel anpassen, Fallen, Bouncen, Apprallen und erste kleine Teststrecke erstellen.
 
 &nbsp;
 
