@@ -44,14 +44,16 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 **Epic:** Als Entwickler möchte ich mich mit Unity zurechtfinden und die Projektstruktur sowie Assets gründlich aufbauen.
 
 **Arbeitspakete**
-- [ ] Unity-Oberfläche zusammen mit einem 3D-Objekt verstehen
-- [ ] Projektstruktur aufbauen (Projektmappe, Ordnerstruktur, Szenen)
-- [ ] Ressourcen (Assets) finden für das Projekt
-- [ ] Assets anwenden, lernen wie man in 3D mit Assets arbeiten
+- [x] Unity-Oberfläche zusammen mit einem 3D-Objekt verstehen
+- [x] Projektstruktur aufbauen (Projektmappe, Ordnerstruktur, Szenen)
+- [x] Ressourcen (Assets) finden für das Projekt
+- [x] Assets anwenden, lernen wie man in 3D mit Assets arbeiten
 
 &nbsp;
 
 **Heute habe ich...**
+Zuerst habe ich ein neues Projekt erstellt und mich mit der Umgebung vertraut gemacht. Ich musste ein Tutorial anschauen um zu verstehen, was die verschiedenen Bereiche (Hirarchy, Project, Inspector) usw. alles bedeuten. Danach habe ich eine Struktur angelegt, z. B. den Ordner, in welchen in die Texturen verwalte. Anschliessend habe ich Unity eigene Objekte (cube, Shpere) hinzugefügt, um einen Boden und eine Kugel zu haben. Anhand eines Tutorials habe ich dann Texturen gefunden (Assets) und gelernt, wie man mit den Parametern, die man verstellen kann, umgeht. Dadurch habe ich eine erste kleine Spieloberfläche gebaut, mit einigermassen passenden Texturen. 
+
 
 &nbsp;
 
@@ -59,13 +61,13 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 
 ## 13.11.2025
 
-**Epic:**
+**Epic:** Als Spieler möchte ich die Kugel mit der Tastatur steuern können, um mich über die Wege bewegen zu können.
 
 **Arbeitspakete**
-- [ ] xxx
-- [ ] xxx
-- [ ] xxx
-- [ ] xxx
+- [ ] Kugelobjekt erstellen (Rigid Body einstellen)
+- [ ] Das Steuerungsskript in C# für die Tastensteuerung
+- [ ] Trägheitsbasierte Steuerung einbauen, damit das Spielerlebnis schwieriger ist.
+- [ ] Ersten kleinen Parcour bauen und mit der Kugel testen - Anpassungen vornehmen
 
 &nbsp;
 
