@@ -44,10 +44,10 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 **Epic:** Als Entwickler möchte ich mich mit Unity zurechtfinden und die Projektstruktur sowie Assets gründlich aufbauen.
 
 **Arbeitspakete**
-- [ ] xxx
-- [ ] xxx
-- [ ] xxx
-- [ ] xxx
+- [ ] Unity-Oberfläche zusammen mit einem 3D-Objekt verstehen
+- [ ] Projektstruktur aufbauen (Projektmappe, Ordnerstruktur, Szenen)
+- [ ] Ressourcen (Assets) finden für das Projekt
+- [ ] Assets anwenden, lernen wie man in 3D mit Assets arbeiten
 
 &nbsp;
 
