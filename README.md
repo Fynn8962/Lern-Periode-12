@@ -1,6 +1,12 @@
 # Lern-Periode-12
 07.11.2025 bis 19.12.2025
 
+## Projektordner
+
+ [Narrow-Roll]([https://github.com/Fynn8962/word_prediction_app](https://github.com/Fynn8962/Narrow-Roll-Game))
+
+ ---
+
 ## Planung
 
 ### Technologien
