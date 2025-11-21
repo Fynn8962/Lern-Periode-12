@@ -51,7 +51,7 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 
 &nbsp;
 
-**Heute habe ich...**                      
+**Heute habe ich...**                                                 
 Zuerst habe ich ein neues Projekt erstellt und mich mit der Umgebung vertraut gemacht. Ich musste ein Tutorial anschauen um zu verstehen, was die verschiedenen Bereiche (Hirarchy, Project, Inspector) usw. alles bedeuten. Danach habe ich eine Struktur angelegt, z. B. den Ordner, in welchen in die Texturen verwalte. Anschliessend habe ich Unity eigene Objekte (cube, Shpere) hinzugefügt, um einen Boden und eine Kugel zu haben. Anhand eines Tutorials habe ich dann Texturen gefunden (Assets) und gelernt, wie man mit den Parametern, die man verstellen kann, umgeht. Dadurch habe ich eine erste kleine Spieloberfläche gebaut, mit einigermassen passenden Texturen. 
 
 
@@ -71,7 +71,7 @@ Zuerst habe ich ein neues Projekt erstellt und mich mit der Umgebung vertraut ge
 
 &nbsp;
 
-**Heute habe ich...**
+**Heute habe ich...**                    
 Zuerst habe ich mich um die Tastatursteuerung der Kugel gekümmert. Da ich mit Unity 6 arbeite, habe ich ein `Input Action Asset` erstellt mit welchem ich eine `Action` names Move erstellt habe in welcher die Tasten WASD belegt werden. Die Aktion wird im Code ausgelesen und dann zur Bewegung der Kugel verwendet.
 
 Damit die Kugel nicht der Kamere davonfährt, musste ich eine Third-Person Kamera erstellen. Um diesen Prozess zu vereinfachen habe ich das `Cinemachine Package` verwendet, welches ein Kamerasystem ist zur Kontrolle der Unity Kamera. Nach hinzufügen des Tracking Target des Input Controllers funktionierte das Herumschauen um die Kugel schon. Jedoch fehlt die Funktion um zu Zoomen, dafür habe ich mithilfe eines Tutorials ein Script für den Third-Person Kamerazoom erstellt. Dadurch kann der Spieler je nach preferenz den Abstand zur Kugel einstellen.
