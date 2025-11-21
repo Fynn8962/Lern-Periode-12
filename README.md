@@ -3,9 +3,8 @@
 
 ## Projektordner
 
- [Narrow-Roll]([https://github.com/Fynn8962/word_prediction_app](https://github.com/Fynn8962/Narrow-Roll-Game))
+ [Narrow-Roll]([https://github.com/Fynn8962/word_prediction_app](https://github.com/Fynn8962/Narrow-Roll-Game)
 
- ---
 
 ## Planung
 
