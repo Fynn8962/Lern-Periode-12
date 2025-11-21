@@ -64,15 +64,21 @@ Zuerst habe ich ein neues Projekt erstellt und mich mit der Umgebung vertraut ge
 **Epic:** Als Spieler möchte ich die Kugel mit der Tastatur steuern können, um mich über die Wege bewegen zu können.
 
 **Arbeitspakete**
-- [ ] Das Steuerungsskript in C# für die Tastensteuerung der Kugel
-- [ ] kamera einstellen dass Kugel verfolgt wird
-- [ ] Herumschauen ermöglichen und Bewegung je nach Blickrichtung anpassen
-- [ ] Rein und Raus zoomen der Kamere für bessere übersicht.
-
+- [x] Das Steuerungsskript in C# für die Tastensteuerung der Kugel
+- [x] kamera einstellen dass Kugel verfolgt wird
+- [x] Herumschauen ermöglichen und Bewegung je nach Blickrichtung anpassen
+- [x] Rein und Raus zoomen der Kamere für bessere übersicht.
 
 &nbsp;
 
 **Heute habe ich...**
+Zuerst habe ich mich um die Tastatursteuerung der Kugel gekümmert. Da ich mit Unity 6 arbeite, habe ich ein `Input Action Asset` erstellt mit welchem ich eine `Action` names Move erstellt habe in welcher die Tasten WASD belegt werden. Die Aktion wird im Code ausgelesen und dann zur Bewegung der Kugel verwendet.
+
+Damit die Kugel nicht der Kamere davonfährt, musste ich eine Third-Person Kamera erstellen. Um diesen Prozess zu vereinfachen habe ich das `Cinemachine Package` verwendet, welches ein Kamerasystem ist zur Kontrolle der Unity Kamera. Nach hinzufügen des Tracking Target des Input Controllers funktionierte das Herumschauen um die Kugel schon. Jedoch fehlt die Funktion um zu Zoomen, dafür habe ich mithilfe eines Tutorials ein Script für den Third-Person Kamerazoom erstellt. Dadurch kann der Spieler je nach preferenz den Abstand zur Kugel einstellen.
+
+>Derzeitiges Problem ist noch das verhalten der Steuereum beim Umschauen der Kamera, soll die Kugel auf Ihrer Bahn bleiben, oder Ihre Richtung der Kamera anpassen. Im laufe der Entwicklung werde ich Testen, welches verhalten sich besser anfühlt.
+
+
 
 &nbsp;
 
