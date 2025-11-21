@@ -65,9 +65,10 @@ Zuerst habe ich ein neues Projekt erstellt und mich mit der Umgebung vertraut ge
 
 **Arbeitspakete**
 - [ ] Das Steuerungsskript in C# für die Tastensteuerung der Kugel
-- [ ] kamera einstellen, Kameraführung- verfolgung Spielbar einstellen.
-- [ ] Trägheitsbasierte Steuerung einbauen, damit das Spielerlebnis schwieriger ist.
-- [ ] Physik der Kugel anpassen, Fallen, Bouncen, Apprallen und erste kleine Teststrecke erstellen.
+- [ ] kamera einstellen dass Kugel verfolgt wird
+- [ ] Herumschauen ermöglichen und Bewegung je nach Blickrichtung anpassen
+- [ ] Rein und Raus zoomen der Kamere für bessere übersicht.
+
 
 &nbsp;
 
@@ -79,13 +80,13 @@ Zuerst habe ich ein neues Projekt erstellt und mich mit der Umgebung vertraut ge
 
 ## 21.11.2025
 
-**Epic:**
+**Epic:** Als Spieler möchte ich eine realistische Physiksteuerung der Kugel, damit sich die Bewegung herausfordernd und glaubwürdig anfühlt.
 
 **Arbeitspakete**
-- [ ] xxx
-- [ ] xxx
-- [ ] xxx
-- [ ] xxx
+- [ ] Trägheitsbasierte Steuerung einbauen, damit das Spielerlebnis schwieriger ist.
+- [ ] Physik der Kugel anpassen, Fallen, Bouncen, Apprallen.
+- [ ] Testelemte Bauen um zu Testen wie sich die Kugel in Situationen verhählt (runterfallen auf Plattform, hohe Geschwindigkeit, Steile steigung
+- [ ] Erste Teststrecke bauen um sicherzustellen, dass weitere Änderungen ein einem realen Szenario funktinieren.
 
 &nbsp;
 
