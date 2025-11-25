@@ -110,7 +110,8 @@ Damit die Kugel nicht der Kamera davonfährt, musste ich eine Third-Person Kamer
 
 ## 28.11.2025
 
-**Epic:**
+**Epic:** Als Spieler möchte ich verschiedene Level mit ansteigendem Schwierigkeitsgrad auswählen können, um mich schrittweise zu verbessern.
+
 
 **Arbeitspakete**
 - [ ] xxx
