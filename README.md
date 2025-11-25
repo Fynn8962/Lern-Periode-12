@@ -37,9 +37,9 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 
 - Als Spieler möchte ich verlieren, wenn ich von der Strecke falle, damit das Spiel Ziel und Spannung hat.
 
-- Als Entwickler möchte ich Code und Projektstruktur klar dokumentiert und verständlich halten, damit andere (und ich selbst) das Projekt nachvollziehen und ausführen können.
+- Als Spieler möchte ich ein einfaches Menü haben, um Level zu starten, neu zu beginnen oder das Spiel zu beenden, damit die Bedienung übersichtlich bleibt.
 
-(Als Spieler möchte ich ein einfaches Menü haben, um Level zu starten, neu zu beginnen oder das Spiel zu beenden, damit die Bedienung übersichtlich bleibt.)
+(Als Entwickler möchte ich Code und Projektstruktur klar dokumentiert und verständlich halten, damit andere (und ich selbst) das Projekt nachvollziehen und ausführen können.)
 
 &nbsp;
 
