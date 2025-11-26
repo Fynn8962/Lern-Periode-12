@@ -102,7 +102,7 @@ Damit die Kugel nicht der Kamera davonfährt, musste ich eine Third-Person Kamer
 
 &nbsp;
 
-**Heute habe ich...**
+**Heute habe ich...**                         
 Ich habe mich heute mit der Physik der Kugel beschäftigt. Für die Physik brauche ich `Rigidbody`, jedoch ist dieses Component nicht kompatibel mit dem `Character Controller`, daher musste ich das Skript so umschreiben, dass die Komponenten-Referenz nicht auf CharacterControll, sondern auf Rigidbody bezieht. Anschliessend habe ich die Physik der Kugel implementiert, damit ein Trägheitsgefühl vorhanden ist in der Steuerung. Dieses Trägheitsgefühl wird mit verschiedenen Parametern wie:          
 
 - `sphereMass` --> Bestimmt, wie viel Kraft nötig ist, um die Kugel zu beschleunigen oder zu stoppen
@@ -122,8 +122,27 @@ Da es viele Werte sind, habe ich viel Zeit verbracht, diese aufeinander anzupass
 
 ## 28.11.2025
 
-**Epic:** Als Spieler möchte ich verschiedene Level mit ansteigendem Schwierigkeitsgrad auswählen können, um mich schrittweise zu verbessern.
+**Epic:** Als Spieler möchte ich verlieren, wenn ich von der Strecke falle, damit das Spiel Ziel und Spannung hat.
 
+
+**Arbeitspakete**
+- [ ] Hinzufügen der Logik zur Erkennung, wenn der Ball die Strecke verlässt und herunterfällt. 
+- [ ] Implementieren des automatischen Zurücksetzens des Balles zur Startposition nach einem Sturz.
+- [ ] Hinzufügen einer Taste- und UI-Reset Funktion, um während des Spielens zurück zum Start zu gelangen. 
+- [ ] Einbauen eines visuellen/akustischen Effekts beim Herunterfallen und Zurücksetzen.
+
+&nbsp;
+
+**Heute habe ich...**
+
+
+&nbsp;
+
+&nbsp;
+
+## 05.12.2025
+
+**Epic:** 
 
 **Arbeitspakete**
 - [ ] xxx
