@@ -95,14 +95,26 @@ Damit die Kugel nicht der Kamera davonfährt, musste ich eine Third-Person Kamer
 **Epic:** Als Spieler möchte ich eine realistische Physiksteuerung der Kugel, damit sich die Bewegung herausfordernd und glaubwürdig anfühlt.
 
 **Arbeitspakete**
-- [ ] Trägheitsbasierte Steuerung einbauen, damit das Spielerlebnis schwieriger ist.
-- [ ] Physik der Kugel anpassen, Fallen, Bouncen, Apprallen.
-- [ ] Testelemte Bauen um zu Testen wie sich die Kugel in Situationen verhählt (runterfallen auf Plattform, hohe Geschwindigkeit, Steile steigung
-- [ ] Erste Teststrecke bauen um sicherzustellen, dass weitere Änderungen ein einem realen Szenario funktinieren.
+- [x] Trägheitsbasierte Steuerung einbauen, damit das Spielerlebnis schwieriger ist.
+- [x] Physik der Kugel anpassen, Fallen, Bouncen, Apprallen.
+- [x] Testelemte Bauen um zu Testen wie sich die Kugel in Situationen verhählt (runterfallen auf Plattform, hohe Geschwindigkeit, Steile steigung
+- [x] Erste Teststrecke bauen um sicherzustellen, dass weitere Änderungen ein einem realen Szenario funktinieren.
 
 &nbsp;
 
 **Heute habe ich...**
+Ich habe mich heute mit der Physik der Kugel beschäftigt. Für die Physik brauche ich `Rigidbody`, jedoch ist dieses Component nicht kompatibel mit dem `Character Controller`, daher musste ich das Skript so umschreiben, dass die Komponenten-Referenz nicht auf CharacterControll, sondern auf Rigidbody bezieht. Anschliessend habe ich die Physik der Kugel implementiert, damit ein Trägheitsgefühl vorhanden ist in der Steuerung. Dieses Trägheitsgefühl wird mit verschiedenen Parametern wie:          
+
+- `sphereMass` --> Bestimmt, wie viel Kraft nötig ist, um die Kugel zu beschleunigen oder zu stoppen
+- `Drag`/`LinearDamping` --> Luft- bzw. Bewegungswiederstand. Höherer Drag reduziert die Geschwindigkeit schneller und macht die Steuerung stabiler.
+- `AngularDrag` --> Widerstand gegen Rotation, beeinflusst wie schnell die Kugel ihre Rollbewegung abbaut.
+- `MoveForce` --> Grundkraft, mit der die Kugel beschleunigt wird. Hat Einfluss auf die Reaktionsfähigkeit des Balles.
+
+Durch diese und weitere Parameter wird eine möglichst realistische Kugelsteuerung ermöglicht, welche es möglichst realistisch machen sollte.
+
+Da es viele Werte sind, habe ich viel Zeit verbracht, diese aufeinander anzupassen für eine möglichst angenehme, fordernde und realistische Steuerung. Dafür habe ich verschieden Parkourszenarion wie Steigungen, Schräglagen oder Drops gebaut und getestet. Ich bin immer noch nicht überzeugt von der Steuerung und werde in der Schule nach Feedback fragen von Kollegen, da ich durch das ganze einstellen mit der Zeit das Gefühl verloren habe, was sich nun besser oder schlechter anfühlt.
+
+
 
 &nbsp;
 
