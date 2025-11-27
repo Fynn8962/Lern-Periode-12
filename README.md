@@ -126,15 +126,23 @@ Da es viele Werte sind, habe ich viel Zeit verbracht, diese aufeinander anzupass
 
 
 **Arbeitspakete**
-- [ ] Hinzufügen der Logik zur Erkennung, wenn der Ball die Strecke verlässt und herunterfällt. 
-- [ ] Implementieren des automatischen Zurücksetzens des Balles zur Startposition nach einem Sturz.
-- [ ] Hinzufügen einer Taste- und UI-Reset Funktion, um während des Spielens zurück zum Start zu gelangen. 
+- [x] Hinzufügen der Logik zur Erkennung, wenn der Ball die Strecke verlässt und herunterfällt. 
+- [x] Implementieren des automatischen Zurücksetzens des Balles zur Startposition nach einem Sturz.
+- [x] Hinzufügen einer Taste- und UI-Reset Funktion, um während des Spielens zurück zum Start zu gelangen. 
 - [ ] Einbauen eines visuellen/akustischen Effekts beim Herunterfallen und Zurücksetzen.
 
 &nbsp;
 
-**Heute habe ich...**
+**Heute habe ich...**                 
+Ich habe ein Skript hinzugefügt namens GameRespawn, dieses Script löst aus, wenn der Y-Wert der Kugel unter einen gewissen Wert liegt, was bedeutet, dass der Spieler heruntergefallen ist. Zusätzlich dazu habe ich im PlayerController Skript eine neue Funktion hinzugefügt, welche, wenn der Spieler die Taste `R` drückt, die Kugel auch zurücksetzt. Für dies habe ich in meiner Gameplay Action Map eine neue Action names `Reset` hinzugefügt, welche die Taste `R` benutzt. Für eine UI-Implementierung habe ich mich vorerst dagegen entschieden und werde diese hinzufügen, wenn ich das restliche UI des Games erstellen werde. 
 
+Als Letztes wollte ich noch hinzufügen, dass die Kamera sich zurücksetzt, wenn die Kugel zurückgesetzt wird, damit diese wieder in die richtige Richtung schaut, jedoch funktioniert dies noch nicht aus noch nicht herausgefundenen Gründen. Diese werde ich versuchen, in der nächsten Sitzung zu beheben. 
+
+Durch Probleme mit dem Zurücksetzen der Kamerarichtung hatte ich keine Zeit mehr das visuelle / akustische Feedback einzufügen, dies werde ich zu einem späteren Zeitpunkt, wahrscheinlich wenn ich das UI implementiere, hinzufügen.
+
+>Probleme:                         
+> - Die Kamera schaut noch nicht in die richtige Richtungwenn die Kugelpostion zurückgesetzt wird.
+> - Das Manuele Zurücksetzen funktioniert noch nicht einwandfrei bei zu schnellem Drücken.
 
 &nbsp;
 
