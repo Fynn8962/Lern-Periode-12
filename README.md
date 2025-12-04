@@ -160,7 +160,12 @@ Durch Probleme mit dem Zurücksetzen der Kamerarichtung hatte ich keine Zeit meh
 
 &nbsp;
 
-**Heute habe ich...**
+**Heute habe ich...**                
+Die aufgetretenen Probleme der letzten Sitzung behoben, nun funktioniert das Zurücksetzen des Spielers und der Kamera reibungslos. Dies konnte ich durch Abändern der Zurücksetzfunktion erzielen, indem ich die Kugel nun direkt mit Rigidbody-Methoden zurücksetze und dadurch keine anderen Engines die Änderungen überschreiben können. 
+
+ ...
+
+
 
 &nbsp;
 
