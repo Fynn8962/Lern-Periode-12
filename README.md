@@ -141,7 +141,7 @@ Als Letztes wollte ich noch hinzufügen, dass die Kamera sich zurücksetzt, wenn
 Durch Probleme mit dem Zurücksetzen der Kamerarichtung hatte ich keine Zeit mehr das visuelle / akustische Feedback einzufügen, dies werde ich zu einem späteren Zeitpunkt, wahrscheinlich wenn ich das UI implementiere, hinzufügen.
 
 >derzeitige Probleme:                         
-> - Die Kamera schaut noch nicht in die richtige Richtungwenn die Kugelpostion zurückgesetzt wird.
+> - Die Kamera schaut noch nicht in die richtige Richtung wenn die Kugelpostion zurückgesetzt wird.
 > - Das Manuele Zurücksetzen funktioniert noch nicht einwandfrei bei zu schnellem Drücken.
 
 &nbsp;
