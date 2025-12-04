@@ -21,6 +21,7 @@ Ich möchte ein einfaches 3D Spiel mittels Unity und C# umsetzen. Das Spiel soll
 **Spiel Idee**                        
 Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, da sie über schmale Wege mit Hindernissen geführt werden muss. Das Ziel besteht darin, den Zielpunkt zu erreichen, ohne herunterzufallen. Dabei wird die Zeit gestoppt, sodass man versuchen kann, seine eigene Bestzeit zu unterbieten. Je nach Zeit und Machbarkeit können verschiedene Level mit unterschiedlichen Schwierigkeitsgraden ausgewählt werden.
 
+
 &nbsp;
 
 ### Epics
@@ -167,7 +168,10 @@ Anschliessend habe ich das Erstellen einer Start- und Ziellinie in Angriff genom
 
 Als das erkennen der Start und Ziellinie erfolgreich war, habe ich mich dem Timer gewidmet. Zuerst ging es nur darum, die Zeit zu messen. Dies war eher einfach. Ich habe bei Berührung der Startlinie im `StartLine.cs` Skript einfach eine Funktion aufgerufen, welche dann einen Timer startete. Anfangs war die Funktion direkt in `PlayerController.cs`  eingebaut, doch da ich später noch die UI anzeige und das Speichern der Bestzeit hinzufügen muss, habe ich die Timerlogik separat in `TimerManager.cs` ausgelagert. Das gleiche wie mit der Startlinie habe ich auch bei der Ziellinie gemacht und fertig war die Zeitmessung mithilfe `StartTimer()`, `StopTImer()` und `ResetTimer()`. Zusätzlich habe ich in bei Herunterfallen der Kugel noch das Zurücksetzen des Timers hinzugefügt. 
 
+Danach habe ich ein Tutorial gesucht welches zeigt wie man ein 2D UI zu einem 3D spiel hinzufügt, jedoch wurde mir im Laufe des Tutorials klar, dass dies schwieriger als gedacht ist, weshalb ich das leider auf nächstes Mal verschieben muss, jedoch kann ich dies direkt mit dem Epic verbinden, welches sowieso das Implementieren eines UI's voraussetzt. Infolgedessen habe ich auch die Speicherung der Bestzeit nicht mehr hinzugefügt.
 
+> Offene Aufgaben:                 
+> - Speichern der Bestzeit fehlt derzeit noch
 
 &nbsp;
 
@@ -175,7 +179,7 @@ Als das erkennen der Start und Ziellinie erfolgreich war, habe ich mich dem Time
 
 ## 12.12.2025
 
-**Epic:** Als Spieler möchte ich eine Zeitmessung sehen, um Bestzeiten vergleichen und mich selbst herausfordern zu können.
+**Epic:** Als Spieler möchte ich ein einfaches Menü haben, um Level zu starten, neu zu beginnen oder das Spiel zu beenden, damit die Bedienung übersichtlich bleibt.
 
 **Arbeitspakete**
 - [ ] xxx
