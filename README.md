@@ -25,19 +25,19 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 
 ### Epics
 
-- Als Entwickler möchte ich mich mit Unity zurechtfinden und die Projektstruktur sowie Assets gründlich aufbauen.
+- [x] Als Entwickler möchte ich mich mit Unity zurechtfinden und die Projektstruktur sowie Assets gründlich aufbauen.
 
-- Als Spieler möchte ich die Kugel mit der Tastatur steuern können, um mich über die Wege bewegen zu können.
+- [x] Als Spieler möchte ich die Kugel mit der Tastatur steuern können, um mich über die Wege bewegen zu können.
 
-- Als Spieler möchte ich eine realistische Physiksteuerung der Kugel, damit sich die Bewegung herausfordernd und glaubwürdig anfühlt.
+- [x] Als Spieler möchte ich eine realistische Physiksteuerung der Kugel, damit sich die Bewegung herausfordernd und glaubwürdig anfühlt.
 
-- Als Spieler möchte ich verschiedene Level mit ansteigendem Schwierigkeitsgrad auswählen können, um mich schrittweise zu verbessern.
+- [ ] Als Spieler möchte ich verschiedene Level mit ansteigendem Schwierigkeitsgrad auswählen können, um mich schrittweise zu verbessern.
 
-- Als Spieler möchte ich eine Zeitmessung sehen, um Bestzeiten vergleichen und mich selbst herausfordern zu können.
+- [ ] Als Spieler möchte ich eine Zeitmessung sehen, um Bestzeiten vergleichen und mich selbst herausfordern zu können.
 
-- Als Spieler möchte ich verlieren, wenn ich von der Strecke falle, damit das Spiel Ziel und Spannung hat.
+- [x] Als Spieler möchte ich verlieren, wenn ich von der Strecke falle, damit das Spiel Ziel und Spannung hat.
 
-- Als Spieler möchte ich ein einfaches Menü haben, um Level zu starten, neu zu beginnen oder das Spiel zu beenden, damit die Bedienung übersichtlich bleibt.
+- [ ] Als Spieler möchte ich ein einfaches Menü haben, um Level zu starten, neu zu beginnen oder das Spiel zu beenden, damit die Bedienung übersichtlich bleibt.
 
 (Als Entwickler möchte ich Code und Projektstruktur klar dokumentiert und verständlich halten, damit andere (und ich selbst) das Projekt nachvollziehen und ausführen können.)
 
