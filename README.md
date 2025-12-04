@@ -163,7 +163,9 @@ Durch Probleme mit dem Zurücksetzen der Kamerarichtung hatte ich keine Zeit meh
 **Heute habe ich...**                
 Die aufgetretenen Probleme der letzten Sitzung behoben, nun funktioniert das Zurücksetzen des Spielers und der Kamera reibungslos. Dies konnte ich durch Abändern der Zurücksetzfunktion erzielen, indem ich die Kugel nun direkt mit Rigidbody-Methoden zurücksetze und dadurch keine anderen Engines die Änderungen überschreiben können. 
 
- ...
+Anschliessend habe ich das Erstellen einer Start- und Ziellinie in Angriff genommen. Als Start und Ziellinie habe ich einen Cube genommen und diesen auf die Fläche angepasst. Diese beiden Cubes habe ich dann mit je einem Skript (`StartLine.cs` und `FinishLine.cs`) versehen, welches das Handeln der Berührung durch die Kugel regeln.
+
+Als das erkennen der Start und Ziellinie erfolgreich war, habe ich mich dem Timer gewidmet. Zuerst ging es nur darum, die Zeit zu messen. Dies war eher einfach. Ich habe bei Berührung der Startlinie im `StartLine.cs` Skript einfach eine Funktion aufgerufen, welche dann einen Timer startete. Anfangs war die Funktion direkt in `PlayerController.cs`  eingebaut, doch da ich später noch die UI anzeige und das Speichern der Bestzeit hinzufügen muss, habe ich die Timerlogik separat in `TimerManager.cs` ausgelagert. Das gleiche wie mit der Startlinie habe ich auch bei der Ziellinie gemacht und fertig war die Zeitmessung mithilfe `StartTimer()`, `StopTImer()` und `ResetTimer()`. Zusätzlich habe ich in bei Herunterfallen der Kugel noch das Zurücksetzen des Timers hinzugefügt. 
 
 
 
