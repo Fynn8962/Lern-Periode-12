@@ -153,6 +153,24 @@ Durch Probleme mit dem Zurücksetzen der Kamerarichtung hatte ich keine Zeit meh
 **Epic:** Als Spieler möchte ich eine Zeitmessung sehen, um Bestzeiten vergleichen und mich selbst herausfordern zu können.
 
 **Arbeitspakete**
+- [ ] Implementieren einer Start- und Ziellinie, welche das Messen der Zeit ermöglichen.
+- [ ] Implementieren eines Timers, welcher bei der Startlinie automatische beginnt und beim Erreichen des Ziels stoppt. 
+- [ ] Anzeige der aktuellen Laufzeit im UI während des Spiels.
+- [ ] Speichern und Anzeige der Bestzeit (pro Strecke)
+
+&nbsp;
+
+**Heute habe ich...**
+
+&nbsp;
+
+&nbsp;
+
+## 12.12.2025
+
+**Epic:** Als Spieler möchte ich eine Zeitmessung sehen, um Bestzeiten vergleichen und mich selbst herausfordern zu können.
+
+**Arbeitspakete**
 - [ ] xxx
 - [ ] xxx
 - [ ] xxx
