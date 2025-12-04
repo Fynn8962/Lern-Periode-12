@@ -150,7 +150,7 @@ Durch Probleme mit dem Zurücksetzen der Kamerarichtung hatte ich keine Zeit meh
 
 ## 05.12.2025
 
-**Epic:** 
+**Epic:** Als Spieler möchte ich eine Zeitmessung sehen, um Bestzeiten vergleichen und mich selbst herausfordern zu können.
 
 **Arbeitspakete**
 - [ ] xxx
