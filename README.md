@@ -179,13 +179,14 @@ Danach habe ich ein Tutorial gesucht welches zeigt wie man ein 2D UI zu einem 3D
 
 ## 19.12.2025
 
-**Epic:** Als Spieler möchte ich ein einfaches Menü haben, um Level zu starten, neu zu beginnen oder das Spiel zu beenden, damit die Bedienung übersichtlich bleibt.
+**Epic:** Als Spieler möchte ich ein einfaches Menü haben, um z.B Level zu starten, neu zu beginnen oder das Spiel zu beenden, damit die Bedienung übersichtlich bleibt.
 
 **Arbeitspakete**
-- [ ] xxx
-- [ ] xxx
-- [ ] xxx
-- [ ] xxx
+- [ ] Zeitanzeige während der dem Spielen Anzeigen,
+- [ ] Hauptmenü zur Level-Auswahl, schliessen des Spieles und allenfalls Einstellungen.
+- [ ] Pausen-Menü mit Optionen zum Fortsetzen, Neustarten und Verlassen. 
+- [ ] Level-Auswahl, Menü zur Auswahl der verschiedenen Level.
+
 
 &nbsp;
 
