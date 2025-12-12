@@ -182,7 +182,7 @@ Danach habe ich ein Tutorial gesucht welches zeigt wie man ein 2D UI zu einem 3D
 **Epic:** Als Spieler möchte ich ein einfaches Menü haben, um z.B Level zu starten, neu zu beginnen oder das Spiel zu beenden, damit die Bedienung übersichtlich bleibt.
 
 **Arbeitspakete**
-- [ ] Zeitanzeige während der dem Spielen Anzeigen,
+- [ ] Zeitanzeige während der dem Spielen Anzeigen.
 - [ ] Hauptmenü zur Level-Auswahl, schliessen des Spieles und allenfalls Einstellungen.
 - [ ] Pausen-Menü mit Optionen zum Fortsetzen, Neustarten und Verlassen. 
 - [ ] Level-Auswahl, Menü zur Auswahl der verschiedenen Level.
