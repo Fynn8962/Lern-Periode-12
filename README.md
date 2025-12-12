@@ -190,4 +190,5 @@ Danach habe ich ein Tutorial gesucht welches zeigt wie man ein 2D UI zu einem 3D
 
 &nbsp;
 
-**Heute habe ich...**
+**Heute habe ich...**             
+Zuerst habe ich das Speichern der Bestzeit in der `StopTimer()` Funktion implementiert, indem ich überprüfe, ob die neue `elapsedTime` kleiner ist als die Vorherige Bestzeit. 
