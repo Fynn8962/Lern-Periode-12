@@ -201,6 +201,8 @@ Das Einfügen des Timer-HUD ging wesentlich schneller, da ich schon wusste, was 
 
 ---
 
+&nbsp;
+
 ## Reflexion
 
 Das Arbeiten an einem Unity 3D Projekt hat mir sehr viel Spass gemacht, da es logisches Denken und Programmieren mit visueller Arbeit verknüpft, was eine angenehme Abwechslung war. Ich habe viele neue Herangehensweisen in Unity kennengelernt, zum Beispiel wie man eine Spielersteuerung umsetzt, dazu eine kontrollierbare Kamera und ein funktionierendes UI und HUD hinzufügt. Das Lernen der neuen Benutzeroberflächen und Möglichkeiten, die Unity bietet hat viel Zeit in Anspruch genommen, jedoch wird es in Zukunft auch Zeit einsparen, da ich mir nun schon Grundkenntnisse angeeignet habe und Probleme und Herangehensweisen und Probleme wiedererkennen werde. Mit meinem Fortschritt bin ich grösstenteils zufrieden, jedoch habe ich nicht alles erreicht, was ich erreichen wollte. Das Spiel ist spielbar und hat die nötigen Funktionen, jedoch fehlen verschiedene Level, Welten-Designs, Soundeffekte und ein Startmenü mit Levelauswahl. Da ich gerne das Projekt noch so weit wie möglich vervollständigen möchte, werde ich dies in kommender Zeit  nachholen.       
