@@ -34,7 +34,7 @@ Der Spieler steuert eine Kugel, wobei diese nicht einfach zu kontrollieren ist, 
 
 - [ ] Als Spieler möchte ich verschiedene Level mit ansteigendem Schwierigkeitsgrad auswählen können, um mich schrittweise zu verbessern.
 
-- [ ] Als Spieler möchte ich eine Zeitmessung sehen, um Bestzeiten vergleichen und mich selbst herausfordern zu können.
+- [x] Als Spieler möchte ich eine Zeitmessung sehen, um Bestzeiten vergleichen und mich selbst herausfordern zu können.
 
 - [x] Als Spieler möchte ich verlieren, wenn ich von der Strecke falle, damit das Spiel Ziel und Spannung hat.
 
