@@ -182,13 +182,18 @@ Danach habe ich ein Tutorial gesucht welches zeigt wie man ein 2D UI zu einem 3D
 **Epic:** Als Spieler möchte ich ein einfaches Menü haben, um z.B Level zu starten, neu zu beginnen oder das Spiel zu beenden, damit die Bedienung übersichtlich bleibt.
 
 **Arbeitspakete**
-- [ ] Zeitanzeige während der dem Spielen Anzeigen.
+- [x] Zeitanzeige während der dem Spielen Anzeigen.
 - [ ] Hauptmenü zur Level-Auswahl, schliessen des Spieles und allenfalls Einstellungen.
-- [ ] Pausen-Menü mit Optionen zum Fortsetzen, Neustarten und Verlassen. 
+- [x] Pausen-Menü mit Optionen zum Fortsetzen, Neustarten und Verlassen. 
 - [ ] Level-Auswahl, Menü zur Auswahl der verschiedenen Level.
 
 
 &nbsp;
 
 **Heute habe ich...**             
-Zuerst habe ich das Speichern der Bestzeit in der `StopTimer()` Funktion implementiert, indem ich überprüfe, ob die neue `elapsedTime` kleiner ist als die Vorherige Bestzeit. 
+Zuerst habe ich das Speichern der Bestzeit in der `StopTimer()` Funktion implementiert, indem ich überprüfe, ob die neue `finalTime` kleiner ist als die Vorherige Bestzeit. 
+
+Danach habe ich mir ein [Youtube-Tutorial](https://www.youtube.com/watch?v=6DcwHPxCE54) gesucht, um zu lernen, wie man am einfachsten ein UI in einem Unity 3D-Game hinzufügen kann. Mithilfe von dem UI Toolkit bzw. 'UI Builder' und mithilfe des Tutorial habe ich dann Schritt für Schritt ein Pausenmenü erstellt, was insgesamt mehr Zeit und ein grösserer Lernprozess war als gedacht. Ein zeitintensiver Faktor war die Zustandsverwaltung des Timers, heisst in welcher Phase des Spiels befindet er sich. Durch das Menü wurde dies noch verstrickter, da es nun möglich war, das Spiel zu pausieren. Somit gab es Konflikte, dass nach dem Pausieren der Timer gestartet wurde, ohne dass der Spieler überhaupt die Startlinie überquert hat, oder dass der Timer nach der Ziellinie, wenn das Spiel fortgesetzt wurde, wieder weitergezählt hat, obwohl der Spieler schon im Zielbereich war. Diese ganzen Side-Effekts herauszufinden und zu beheben war anstrengend, jedoch war die Lösung meist einfach mittels Booleans wie `raceHasStarted` oder `hasFinished` zu lösen.
+
+Das Einfügen des Timer-HUD ging wesentlich schneller, da ich schon wusste, was ich machen musste, hier gab es auch keine grösseren Probleme, ausser dass die Sekunden durch einen Syntaxfehler nicht auf das Label übertragen wurden. Da ich kein passendes Video fand für die Umsetzung des Timers habe ich mithilfe Gemini gearbeitet, um mir die Umsetzung erklären zu lassen, was viel Zeit erspart hat da die Antworten auf den eigenen Use Case zugeschnitten waren. 
+
