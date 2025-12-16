@@ -197,6 +197,8 @@ Danach habe ich mir ein [Youtube-Tutorial](https://www.youtube.com/watch?v=6DcwH
 
 Das Einfügen des Timer-HUD ging wesentlich schneller, da ich schon wusste, was ich machen musste, hier gab es auch keine grösseren Probleme, ausser dass die Sekunden durch einen Syntaxfehler nicht auf das Label übertragen wurden. Da ich kein passendes Video fand für die Umsetzung des Timers habe ich mithilfe Gemini gearbeitet, um mir die Umsetzung erklären zu lassen, was viel Zeit erspart hat da die Antworten auf den eigenen Use Case zugeschnitten waren. 
 
+&nbsp;
+
 ---
 
 ## Reflexion
