@@ -197,3 +197,10 @@ Danach habe ich mir ein [Youtube-Tutorial](https://www.youtube.com/watch?v=6DcwH
 
 Das Einfügen des Timer-HUD ging wesentlich schneller, da ich schon wusste, was ich machen musste, hier gab es auch keine grösseren Probleme, ausser dass die Sekunden durch einen Syntaxfehler nicht auf das Label übertragen wurden. Da ich kein passendes Video fand für die Umsetzung des Timers habe ich mithilfe Gemini gearbeitet, um mir die Umsetzung erklären zu lassen, was viel Zeit erspart hat da die Antworten auf den eigenen Use Case zugeschnitten waren. 
 
+---
+
+## Reflexion
+
+Das Arbeiten an einem Unity 3D Projekt hat mir sehr viel Spass gemacht, da es logisches Denken und Programmieren mit visueller Arbeit verknüpft, was eine angenehme Abwechslung war. Ich habe viele neue Herangehensweisen in Unity kennengelernt, zum Beispiel wie man eine Spielersteuerung umsetzt, dazu eine kontrollierbare Kamera und ein funktionierendes UI und HUD hinzufügt. Das Lernen der neuen Benutzeroberflächen und Möglichkeiten, die Unity bietet hat viel Zeit in Anspruch genommen, jedoch wird es in Zukunft auch Zeit einsparen, da ich mir nun schon Grundkenntnisse angeeignet habe und Probleme und Herangehensweisen und Probleme wiedererkennen werde. Mit meinem Fortschritt bin ich grösstenteils zufrieden, jedoch habe ich nicht alles erreicht, was ich erreichen wollte. Das Spiel ist spielbar und hat die nötigen Funktionen, jedoch fehlen verschiedene Level, Welten-Designs, Soundeffekte und ein Startmenü mit Levelauswahl. Da ich gerne das Projekt noch so weit wie möglich vervollständigen möchte, werde ich dies in kommender Zeit  nachholen.       
+
+Insgesamt bin ich mit dem fertigen Prototyp sehr zufrieden, durch Notizen im Code und visuelle Tutorials in Form von YouTube-Videos war es mir möglich, ein möglichst grosses Learning daraus zu ziehen und nicht nur ein Projekt fertigzustellen, ohne den Prozess zu verstehen. Dies ist mir wichtig, denn auch wenn ich mir nicht alles merken kann, werde ich erlerntes und aufgetretene Probleme bei einem neuen Projekt wiedererkennen und somit schneller als beim ersten Mal umsetzen und lösen können.
